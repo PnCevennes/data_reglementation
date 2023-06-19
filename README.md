@@ -1,2 +1,2 @@
-# data_reglementation
-Données géographique liée à la reglementation du Parc national des Cévennes
+# Données de réglementation
+Données géographiques liées à la réglementation du Parc national des Cévennes
