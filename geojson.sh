@@ -1,8 +1,13 @@
+#!/bin/bash
+
 ## Scrit d'export des données géographiques en geojson intenté à partir des vues v_outdoor_sites et v_sensitivearea de la base de donnée de Geotrek
 
-# Fichier d'identification et mots de passe de la base
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+cd ${SCRIPT_DIR}
 
-. settings.ini
+# Fichier d'identification et mots de passe de la base
+. "${SCRIPT_DIR}/settings.ini"
+
 
 cd ../data_reglementation/
 
