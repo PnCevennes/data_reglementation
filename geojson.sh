@@ -8,9 +8,11 @@ cd ../data_reglementation/
 
 # Export en GeoJSON
 
-ogr2ogr -f GeoJSON -s_srs EPSG:2154 -t_srs EPSG:4326 outdoor_sites.geojson PG:"host=$DB_HOST port=$DB_PORT dbname=$DB_NAME user=$DB_USER password=$DB_PASSWORD" v_outdoor_sites
+rm outdoor_sites.geojson
+ogr2ogr  -f GeoJSON -s_srs EPSG:2154 -t_srs EPSG:4326 outdoor_sites.geojson PG:"host=$DB_HOST port=$DB_PORT dbname=$DB_NAME user=$DB_USER password=$DB_PASSWORD" v_outdoor_sites
 
-ogr2ogr -f GeoJSON -s_srs EPSG:2154 -t_srs EPSG:4326 sensitivity_area.geojson PG:"host=$DB_HOST port=$DB_PORT dbname=$DB_NAME user=$DB_USER password=$DB_PASSWORD" v_sensitivearea
+rm sensitivity_area.geojson
+ogr2ogr  -f GeoJSON -s_srs EPSG:2154 -t_srs EPSG:4326 sensitivity_area.geojson PG:"host=$DB_HOST port=$DB_PORT dbname=$DB_NAME user=$DB_USER password=$DB_PASSWORD" v_sensitivearea
 
 # Indenter les fichiers
 
