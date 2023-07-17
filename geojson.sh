@@ -1,16 +1,23 @@
+#!/bin/bash
+
 ## Scrit d'export des données géographiques en geojson intenté à partir des vues v_outdoor_sites et v_sensitivearea de la base de donnée de Geotrek
 
-# Fichier d'identification et mots de passe de la base
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+cd ${SCRIPT_DIR}
 
-. settings.ini
+# Fichier d'identification et mots de passe de la base
+. "${SCRIPT_DIR}/settings.ini"
+
 
 cd ../data_reglementation/
 
 # Export en GeoJSON
 
-ogr2ogr -f GeoJSON -s_srs EPSG:2154 -t_srs EPSG:4326 outdoor_sites.geojson PG:"host=$DB_HOST port=$DB_PORT dbname=$DB_NAME user=$DB_USER password=$DB_PASSWORD" v_outdoor_sites
+rm outdoor_sites.geojson
+ogr2ogr  -f GeoJSON -s_srs EPSG:2154 -t_srs EPSG:4326 outdoor_sites.geojson PG:"host=$DB_HOST port=$DB_PORT dbname=$DB_NAME user=$DB_USER password=$DB_PASSWORD" v_outdoor_sites
 
-ogr2ogr -f GeoJSON -s_srs EPSG:2154 -t_srs EPSG:4326 sensitivity_area.geojson PG:"host=$DB_HOST port=$DB_PORT dbname=$DB_NAME user=$DB_USER password=$DB_PASSWORD" v_sensitivearea
+rm sensitivity_area.geojson
+ogr2ogr  -f GeoJSON -s_srs EPSG:2154 -t_srs EPSG:4326 sensitivity_area.geojson PG:"host=$DB_HOST port=$DB_PORT dbname=$DB_NAME user=$DB_USER password=$DB_PASSWORD" v_sensitivearea
 
 # Indenter les fichiers
 
