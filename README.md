@@ -39,9 +39,12 @@ Fichier contenant les données géographiques répertoriées «sites outdoor» s
 
 ## Liens qui reprennent ces données
 
-Carte interactive (Lizmap) : https://cartotheque.cevennes-parcnational.fr/index.php/view/
+Carte interactive (Lizmap) : 
+https://cartotheque.cevennes-parcnational.fr/index.php/
 
-Data.gouv :
+Data.gouv : 
+https://www.data.gouv.fr/fr/datasets/reglementation-des-pratiques-de-la-randonnee-du-vtt-et-du-canyoning-dans-le-coeur-du-parc-national-des-cevennes/
+https://www.data.gouv.fr/fr/datasets/reglementation-de-la-pratique-du-vol-libre-et-du-stationnement-nocturne-dans-le-coeur-du-parc-national-des-cevennes/
 
 Site internet du Parc national des Cévennes : https://www.cevennes-parcnational.fr/fr/le-parc-national-des-cevennes/la-reglementation-du-coeur
 
