@@ -30,6 +30,7 @@ jq ' . ' sensitivity_area.geojson > truc.geojson
 mv truc.geojson sensitivity_area.geojson
 
 ## Script d'export des fichiers geojson vers GitHub
+git pull 
 
 git add outdoor_sites.geojson sensitivity_area.geojson
 
