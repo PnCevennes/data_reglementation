@@ -90,7 +90,7 @@ Site internet du Parc national des Cévennes : https://www.cevennes-parcnational
 |Practice                      |Pratique concernée                                                          |
 |Ratings                       |Evaluation                                                                  |
 |Type                          |Type de zone (exemple : zone de décollage)                                  |
-|Description teaser (fr et en) |Description deds données (français, anglais)                                |
+|Description teaser (fr et en) |Description des données (français, anglais)                                |
 |Ambiance (fr et en)           |Ambiance du site (français, anglais)                                        |
 Description (fr et en)         |Description des données (français, anglais)                                 |
 Advice (fr et en)              |Conseils sur le site (français, anglais)                                    |
