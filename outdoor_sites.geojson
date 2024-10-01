@@ -21249,6 +21249,780 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "Structure": "Conseil départemental de la Lozère",
+        "City": "Pied-de-Borne, Prévenchères",
+        "District": "Mont Lozère",
+        "Name fr": "Site d'escalade de la Garde Guérin",
+        "Name en": "",
+        "Children": null,
+        "Parents": null,
+        "Sectors": null,
+        "Practice": "Escalade",
+        "Ratings": null,
+        "Type": null,
+        "Description teaser fr": "",
+        "Description teaser en": "",
+        "Ambiance fr": "",
+        "Ambiance en": "",
+        "Description fr": "8 secteurs propos&eacute;s :<br /><br />\r\n<ul>\r\n<li>1 - \"LeJardin du Jouqueirou : 27 voies</li>\r\n<li>2 - \"Le Rocher du Moulin\" : 16 voies</li>\r\n<li>3 - \"Bastion de la Garde\" : 5 voies</li>\r\n<li>5 - \"Tour R&eacute;gordane\" : 24 voies</li>\r\n<li>6 - \"Aiguille Folcher\" : 8 voies</li>\r\n<li>7 - \"Conque de Chante Cor\" : 14 voies</li>\r\n<li>8 - \"Aiguilles de la Br&egrave;che vent&eacute;e\" : 11 voies</li>\r\n<li>9 - \"Miroir de Chante Cor\" : 10 voies</li>\r\n</ul>",
+        "Description en": "",
+        "Advice fr": "",
+        "Advice en": "",
+        "Accessibility fr": "",
+        "Accessibility en": "",
+        "Period fr": "",
+        "Period en": "",
+        "Orientation": [],
+        "Wind": [],
+        "Label": null,
+        "Information desk": null,
+        "Web link": null,
+        "Portal": null,
+        "Source": null,
+        "Manager": null,
+        "External ID": null,
+        "Published fr": "No",
+        "Published en": "No",
+        "Minimum elevation": "621m",
+        "Maximum elevation": "860m",
+        "Insertion date": "2024/09/30 09:39:03.287+02",
+        "Update date": "2024/09/30 09:40:30.060+02"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                3.934536091983318,
+                44.48481067137538
+              ],
+              [
+                3.93625270575285,
+                44.48545363242854
+              ],
+              [
+                3.93775474280119,
+                44.48536178128342
+              ],
+              [
+                3.939643017947674,
+                44.485178078559244
+              ],
+              [
+                3.941059224307536,
+                44.48468820179989
+              ],
+              [
+                3.940930478274821,
+                44.48410646780507
+              ],
+              [
+                3.940415494143963,
+                44.483524728009165
+              ],
+              [
+                3.93932819366455,
+                44.483417564782506
+              ],
+              [
+                3.938705921173096,
+                44.483983996751256
+              ],
+              [
+                3.937139511108398,
+                44.484336100338226
+              ],
+              [
+                3.935964703559876,
+                44.484190666505555
+              ],
+              [
+                3.935566060245037,
+                44.48383090757222
+              ],
+              [
+                3.935823552310469,
+                44.483402255733985
+              ],
+              [
+                3.936209790408613,
+                44.48303483736578
+              ],
+              [
+                3.936553113162517,
+                44.48242246827652
+              ],
+              [
+                3.93660843372345,
+                44.48193256837722
+              ],
+              [
+                3.936295621097088,
+                44.481595759809956
+              ],
+              [
+                3.935480229556562,
+                44.481779473814896
+              ],
+              [
+                3.934965245425701,
+                44.48257556115143
+              ],
+              [
+                3.934553861618041,
+                44.483272128659955
+              ],
+              [
+                3.933935277163982,
+                44.48352472800917
+              ],
+              [
+                3.933420209214092,
+                44.48381559863224
+              ],
+              [
+                3.933173445984722,
+                44.48407585006567
+              ],
+              [
+                3.933173445984722,
+                44.48437437233909
+              ],
+              [
+                3.933806447312235,
+                44.48467289308486
+              ],
+              [
+                3.934117583557964,
+                44.48473412792083
+              ],
+              [
+                3.934536091983318,
+                44.48481067137538
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "Structure": "Conseil départemental de la Lozère",
+        "City": "Pied-de-Borne",
+        "District": "Mont Lozère",
+        "Name fr": "Site d'escalade du Pourtalas",
+        "Name en": "",
+        "Children": null,
+        "Parents": null,
+        "Sectors": null,
+        "Practice": "Escalade",
+        "Ratings": null,
+        "Type": null,
+        "Description teaser fr": "",
+        "Description teaser en": "",
+        "Ambiance fr": "",
+        "Ambiance en": "",
+        "Description fr": "1 seul secteur propos&eacute; de 27 voies",
+        "Description en": "",
+        "Advice fr": "",
+        "Advice en": "",
+        "Accessibility fr": "",
+        "Accessibility en": "",
+        "Period fr": "",
+        "Period en": "",
+        "Orientation": [],
+        "Wind": [],
+        "Label": null,
+        "Information desk": null,
+        "Web link": null,
+        "Portal": null,
+        "Source": null,
+        "Manager": null,
+        "External ID": null,
+        "Published fr": "No",
+        "Published en": "No",
+        "Minimum elevation": "339m",
+        "Maximum elevation": "363m",
+        "Insertion date": "2024/09/30 09:42:22.378+02",
+        "Update date": "2024/09/30 09:42:22.378+02"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                3.985426439903676,
+                44.477090758303305
+              ],
+              [
+                3.985227956436575,
+                44.4771941054815
+              ],
+              [
+                3.984895362518727,
+                44.47726683116383
+              ],
+              [
+                3.984755887649953,
+                44.47719027781151
+              ],
+              [
+                3.984643234871328,
+                44.477071619916885
+              ],
+              [
+                3.984723701141774,
+                44.476926167974966
+              ],
+              [
+                3.984884633682668,
+                44.476872580326045
+              ],
+              [
+                3.985077752731741,
+                44.476784543367344
+              ],
+              [
+                3.985260142944752,
+                44.47676923257835
+              ],
+              [
+                3.985340609215199,
+                44.47679985415233
+              ],
+              [
+                3.985394253395497,
+                44.47689554646731
+              ],
+              [
+                3.985426439903676,
+                44.47701420471998
+              ],
+              [
+                3.985426439903676,
+                44.477090758303305
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "Structure": "Conseil départemental de la Lozère",
+        "City": "Lanuéjols",
+        "District": "Causses Gorges",
+        "Name fr": "Site d'escalade de Lanuéjols",
+        "Name en": "",
+        "Children": null,
+        "Parents": null,
+        "Sectors": null,
+        "Practice": "Escalade",
+        "Ratings": null,
+        "Type": null,
+        "Description teaser fr": "",
+        "Description teaser en": "",
+        "Ambiance fr": "",
+        "Ambiance en": "",
+        "Description fr": "1 secteur propos&eacute; : \"L'atelier\" avec 37 voies du 5c au 8b",
+        "Description en": "",
+        "Advice fr": "",
+        "Advice en": "",
+        "Accessibility fr": "Site sportif pour des pratiquants exp&eacute;riment&eacute;s",
+        "Accessibility en": "",
+        "Period fr": "",
+        "Period en": "",
+        "Orientation": [
+          "SW"
+        ],
+        "Wind": [],
+        "Label": null,
+        "Information desk": "Office de tourisme Coeur de Lozère, Mende",
+        "Web link": null,
+        "Portal": "DEP_48, PPN_MONT_LOZERE",
+        "Source": "Pôle pleine nature Mont Lozère",
+        "Manager": null,
+        "External ID": null,
+        "Published fr": "No",
+        "Published en": "No",
+        "Minimum elevation": "976m",
+        "Maximum elevation": "1041m",
+        "Insertion date": "2024/09/30 10:02:28.532+02",
+        "Update date": "2024/09/30 10:03:22.339+02"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                3.566672801971436,
+                44.51092908566252
+              ],
+              [
+                3.566578044556082,
+                44.511158612587984
+              ],
+              [
+                3.56610061135143,
+                44.511365186048074
+              ],
+              [
+                3.565810932777822,
+                44.51125042310509
+              ],
+              [
+                3.565762653015554,
+                44.51102854744118
+              ],
+              [
+                3.56585384812206,
+                44.5108028454682
+              ],
+              [
+                3.566283001564444,
+                44.51038204284562
+              ],
+              [
+                3.566717519424857,
+                44.51011425777671
+              ],
+              [
+                3.567259325645864,
+                44.509815867250595
+              ],
+              [
+                3.567516817711295,
+                44.50982734383758
+              ],
+              [
+                3.567801131866871,
+                44.51003392201609
+              ],
+              [
+                3.567763580940665,
+                44.51020224443507
+              ],
+              [
+                3.567484631203115,
+                44.51040499579428
+              ],
+              [
+                3.567168130539358,
+                44.510630699308
+              ],
+              [
+                3.566892743110657,
+                44.51075693987519
+              ],
+              [
+                3.566672801971436,
+                44.51092908566252
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "Structure": "Conseil départemental de la Lozère",
+        "City": "Pont de Montvert - Sud Mont Lozère",
+        "District": "Mont Lozère",
+        "Name fr": "Site d'escalade de la Forgette",
+        "Name en": "",
+        "Children": null,
+        "Parents": null,
+        "Sectors": null,
+        "Practice": "Escalade",
+        "Ratings": null,
+        "Type": null,
+        "Description teaser fr": "",
+        "Description teaser en": "",
+        "Ambiance fr": "",
+        "Ambiance en": "",
+        "Description fr": "XX secteurs avec 22 voies du 5a au 6c",
+        "Description en": "",
+        "Advice fr": "",
+        "Advice en": "",
+        "Accessibility fr": "",
+        "Accessibility en": "",
+        "Period fr": "",
+        "Period en": "",
+        "Orientation": [
+          "S"
+        ],
+        "Wind": [],
+        "Label": null,
+        "Information desk": "Office de tourisme Des Cévennes au mont Lozère, Le Pont-de-Montvert",
+        "Web link": null,
+        "Portal": "DEP_48",
+        "Source": "Pôle pleine nature Mont Lozère",
+        "Manager": null,
+        "External ID": null,
+        "Published fr": "No",
+        "Published en": "No",
+        "Minimum elevation": "864m",
+        "Maximum elevation": "917m",
+        "Insertion date": "2024/09/30 14:09:32.342+02",
+        "Update date": "2024/09/30 14:09:32.342+02"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                3.729076995514334,
+                44.362385255880596
+              ],
+              [
+                3.728519096039235,
+                44.362473465260905
+              ],
+              [
+                3.728309883736074,
+                44.362496476381764
+              ],
+              [
+                3.728143586777151,
+                44.362412102227815
+              ],
+              [
+                3.727950467728078,
+                44.36219733110577
+              ],
+              [
+                3.727966560982166,
+                44.36184832635327
+              ],
+              [
+                3.728138222359121,
+                44.36174477509265
+              ],
+              [
+                3.728266968391836,
+                44.36161821219226
+              ],
+              [
+                3.728524460457264,
+                44.36157218925163
+              ],
+              [
+                3.728604926727712,
+                44.36150315477286
+              ],
+              [
+                3.728830232284963,
+                44.36153000152428
+              ],
+              [
+                3.728958978317678,
+                44.36155684826339
+              ],
+              [
+                3.729259385727346,
+                44.361698752251435
+              ],
+              [
+                3.729307665489614,
+                44.361806138824726
+              ],
+              [
+                3.729323758743704,
+                44.36196721831563
+              ],
+              [
+                3.729313029907645,
+                44.362151308620064
+              ],
+              [
+                3.729254021309316,
+                44.362285540769044
+              ],
+              [
+                3.729205741547049,
+                44.36233539834604
+              ],
+              [
+                3.729076995514334,
+                44.362385255880596
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "Structure": "Conseil départemental de la Lozère",
+        "City": "Meyrueis",
+        "District": "Causses Gorges",
+        "Name fr": "Site d'escalade du Pilier des Bouillères",
+        "Name en": "",
+        "Children": null,
+        "Parents": null,
+        "Sectors": null,
+        "Practice": "Escalade",
+        "Ratings": null,
+        "Type": null,
+        "Description teaser fr": "",
+        "Description teaser en": "",
+        "Ambiance fr": "",
+        "Ambiance en": "",
+        "Description fr": "1 secteur de 21 voies de 5c &agrave; 7c+",
+        "Description en": "",
+        "Advice fr": "",
+        "Advice en": "",
+        "Accessibility fr": "",
+        "Accessibility en": "",
+        "Period fr": "",
+        "Period en": "",
+        "Orientation": [
+          "SW"
+        ],
+        "Wind": [],
+        "Label": null,
+        "Information desk": "Maison du tourisme et du Parc national, Florac",
+        "Web link": null,
+        "Portal": "DEP_48",
+        "Source": null,
+        "Manager": null,
+        "External ID": null,
+        "Published fr": "No",
+        "Published en": "No",
+        "Minimum elevation": "746m",
+        "Maximum elevation": "871m",
+        "Insertion date": "2024/09/30 17:04:08.329+02",
+        "Update date": "2024/09/30 17:07:03.187+02"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                3.415367715060711,
+                44.19240523837966
+              ],
+              [
+                3.415045849978923,
+                44.19265140131457
+              ],
+              [
+                3.414552323520184,
+                44.192512934790216
+              ],
+              [
+                3.414209000766278,
+                44.19211291855898
+              ],
+              [
+                3.414080254733562,
+                44.19160520174017
+              ],
+              [
+                3.414423577487469,
+                44.19106670942546
+              ],
+              [
+                3.415002934634684,
+                44.19085131112197
+              ],
+              [
+                3.415775410830975,
+                44.19071284036832
+              ],
+              [
+                3.416247479617597,
+                44.19085131112198
+              ],
+              [
+                3.416569344699382,
+                44.19112825165334
+              ],
+              [
+                3.41663371771574,
+                44.19148211821634
+              ],
+              [
+                3.415882699191569,
+                44.19160520174017
+              ],
+              [
+                3.415410630404949,
+                44.19182059728842
+              ],
+              [
+                3.415324799716474,
+                44.19215907441657
+              ],
+              [
+                3.41541063040495,
+                44.1922513860232
+              ],
+              [
+                3.415367715060711,
+                44.19240523837966
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84,
+        "Structure": "Conseil départemental de la Lozère",
+        "City": "Meyrueis",
+        "District": "Causses Gorges",
+        "Name fr": "Site d'escalade du Chaos de Pauparelle",
+        "Name en": "",
+        "Children": null,
+        "Parents": null,
+        "Sectors": null,
+        "Practice": "Escalade",
+        "Ratings": null,
+        "Type": null,
+        "Description teaser fr": "",
+        "Description teaser en": "",
+        "Ambiance fr": "",
+        "Ambiance en": "",
+        "Description fr": "1 secteur de 11 voies de 4c &agrave; 6a",
+        "Description en": "",
+        "Advice fr": "",
+        "Advice en": "",
+        "Accessibility fr": "",
+        "Accessibility en": "",
+        "Period fr": "",
+        "Period en": "",
+        "Orientation": [
+          "SW"
+        ],
+        "Wind": [],
+        "Label": null,
+        "Information desk": "Maison du tourisme et du Parc national, Florac",
+        "Web link": null,
+        "Portal": "DEP_48",
+        "Source": null,
+        "Manager": null,
+        "External ID": null,
+        "Published fr": "No",
+        "Published en": "No",
+        "Minimum elevation": "889m",
+        "Maximum elevation": "957m",
+        "Insertion date": "2024/09/30 17:06:20.079+02",
+        "Update date": "2024/09/30 17:06:20.079+02"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                3.425307897850871,
+                44.1880318285963
+              ],
+              [
+                3.42507186345756,
+                44.1881664590683
+              ],
+              [
+                3.424540786072612,
+                44.18835494121252
+              ],
+              [
+                3.424261836335063,
+                44.188328015228834
+              ],
+              [
+                3.424116997048258,
+                44.1881895385469
+              ],
+              [
+                3.424111632630229,
+                44.18807029447683
+              ],
+              [
+                3.424063352867961,
+                44.18790104441474
+              ],
+              [
+                3.424176005646586,
+                44.187797186181506
+              ],
+              [
+                3.42457833699882,
+                44.18773179386666
+              ],
+              [
+                3.425055770203471,
+                44.18769717437651
+              ],
+              [
+                3.42532935552299,
+                44.18752022999819
+              ],
+              [
+                3.425479559227824,
+                44.187374058154575
+              ],
+              [
+                3.425629762932658,
+                44.187293278822324
+              ],
+              [
+                3.425844339653849,
+                44.18727789227031
+              ],
+              [
+                3.42608037404716,
+                44.1873471317228
+              ],
+              [
+                3.426198391243815,
+                44.187424064352385
+              ],
+              [
+                3.426182297989725,
+                44.18757792931036
+              ],
+              [
+                3.4260696452111,
+                44.18769332776526
+              ],
+              [
+                3.425790695473552,
+                44.18783565221515
+              ],
+              [
+                3.425506381317974,
+                44.18795489675994
+              ],
+              [
+                3.425307897850871,
+                44.1880318285963
+              ]
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
