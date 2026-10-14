@@ -22058,7 +22058,7 @@
         "Label": null,
         "Information desk": "Maison du tourisme et du Parc national, Florac",
         "Web link": null,
-        "Portal": "DEP_48",
+        "Portal": "PNC, DEP_48",
         "Source": "Agence d'Attractivité Touristique Gorges Causses Cévennes",
         "Manager": null,
         "External ID": "",
@@ -22067,7 +22067,7 @@
         "Minimum elevation": "1024m",
         "Maximum elevation": "1024m",
         "Insertion date": "2026-02-13T10:07:48.136+01:00",
-        "Update date": "2026-03-12T09:55:41.468+01:00"
+        "Update date": "2026-10-13T17:02:26.809+02:00"
       },
       "geometry": {
         "type": "MultiPoint",
@@ -22113,7 +22113,7 @@
         "Label": null,
         "Information desk": null,
         "Web link": null,
-        "Portal": "DEP_48",
+        "Portal": "PNC, DEP_48",
         "Source": null,
         "Manager": null,
         "External ID": "",
@@ -22122,7 +22122,7 @@
         "Minimum elevation": "630m",
         "Maximum elevation": "630m",
         "Insertion date": "2026-02-13T10:17:40.941+01:00",
-        "Update date": "2026-02-16T11:00:58.735+01:00"
+        "Update date": "2026-10-13T17:44:43.017+02:00"
       },
       "geometry": {
         "type": "MultiPoint",
@@ -22168,7 +22168,7 @@
         "Label": "En coeur de parc",
         "Information desk": "Maison du tourisme et du Parc national, Florac",
         "Web link": null,
-        "Portal": "DEP_48",
+        "Portal": "PNC, DEP_48",
         "Source": "Agence d'Attractivité Touristique Gorges Causses Cévennes",
         "Manager": null,
         "External ID": "",
@@ -22177,7 +22177,7 @@
         "Minimum elevation": "752m",
         "Maximum elevation": "752m",
         "Insertion date": "2026-02-13T14:09:14.451+01:00",
-        "Update date": "2026-02-13T16:09:33.765+01:00"
+        "Update date": "2026-10-13T17:46:00.242+02:00"
       },
       "geometry": {
         "type": "MultiPoint",
@@ -22223,7 +22223,7 @@
         "Label": "En coeur de parc",
         "Information desk": "Maison du tourisme et du Parc national, Florac",
         "Web link": null,
-        "Portal": "DEP_48",
+        "Portal": "PNC, DEP_48",
         "Source": "Département de la Lozère",
         "Manager": null,
         "External ID": "",
@@ -22232,7 +22232,7 @@
         "Minimum elevation": "752m",
         "Maximum elevation": "752m",
         "Insertion date": "2026-02-13T14:09:14.451+01:00",
-        "Update date": "2026-02-13T16:09:33.765+01:00"
+        "Update date": "2026-10-13T17:46:00.242+02:00"
       },
       "geometry": {
         "type": "MultiPoint",
@@ -22240,61 +22240,6 @@
           [
             3.589096069335937,
             44.206008045016134
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 88,
-        "Structure": "Comcom Gorges Causses Cévennes",
-        "City": "Florac Trois Rivières",
-        "District": "Causses Gorges",
-        "Name fr": "Via Ferrata de Florac (test)",
-        "Name en": "",
-        "Children": null,
-        "Parents": null,
-        "Sectors": null,
-        "Practice": "Via ferrata",
-        "Ratings": "Niveau : D (Difficile)",
-        "Type": null,
-        "Description teaser fr": "<p>Gaz &agrave; tous les &eacute;tages !&nbsp;</p>",
-        "Description teaser en": "",
-        "Ambiance fr": "<p>Le rocher du Rochefort propose deux parcours de via ferrata (l'un facile et l'autre difficile) qui surplombent la vall&eacute;e de Florac.</p>",
-        "Ambiance en": "",
-        "Description fr": "<p>Exposition : Sud-Est, Nord-Est<br>Dur&eacute;e : 3 &agrave; 4 heures<br>2 passerelles<br>3 ponts de signe<br>1 pont n&eacute;palais<br>1 tyrolienne</p>\r\n<p>Pour plus de s&eacute;curit&eacute;, il est conseill&eacute; de r&eacute;aliser cette Via-Ferrata accompagn&eacute; d'un guide qualifi&eacute;.</p>",
-        "Description en": "",
-        "Advice fr": "<p>Non encadr&eacute;, l'utilisateur du parcours est seul responsable de sa s&eacute;curit&eacute;. La collectivit&eacute; d&eacute;cline toute responsabilit&eacute; pour toute personne n'ayant pas acquis une parfaite connaissance du mat&eacute;riel et des dangers potentiels du milieu naturel. L'&eacute;quipement des Via-Ferrata permet la progression en cord&eacute;e classique, de type escalade ou alpinisme. Ne sortez pas des sentiers balis&eacute;s.<br>Mat&eacute;riel obligatoire :</p>\r\n<ul>\r\n<li>Baudrier &nbsp;: un cuissard d'escalade ou baudrier complet de type alpinisme</li>\r\n<li>Mousquetons : deux mousquetons de s&eacute;curit&eacute; norm&eacute;s \"Via-Ferrata\")</li>\r\n<li>Casque : un casque de type alpinisme</li>\r\n<li>Longes : deux longes avec absorbeur norm&eacute;es \"Via-Ferrata\"</li>\r\n<li>Gants : des gants classiques de type \"chantier\"</li>\r\n<li>Absorbeur : un absorbeur d'&eacute;nergie est indispensable pour votre s&eacute;curit&eacute;</li>\r\n<li>Poulie : une poulie de type \"Tandem speed\" sur longe courte est obligatoire pour la tyrolienne</li>\r\n<li>Sangle ferm&eacute;e avec \"t&ecirc;te d'alouette\" maillon rapide n&deg;10 ou demi-rond r&eacute;sistance mini : 2500KN</li>\r\n</ul>\r\n<p>Attention : les sangles utilis&eacute;e en escalade ne conviennent pas &agrave; la pratique de la via ferrata.</p>\r\n<p>Avant de d&eacute;buter votre parcours :<br>Choisir votre parcours en fonction de vos capacit&eacute;s physiques et de vos connaissances techniques. Ne pr&eacute;sumez pas de vos forces et de vos capacit&eacute;s &agrave; r&eacute;sister au vertige ;<br>Eviter de partir seul ;&nbsp;<br>V&eacute;rifier d'avoir le mat&eacute;riel n&eacute;cessaire, de son &eacute;tat et qu'il se conforme strictement aux indications des fabricants. Munissez-vous de chaussures de sport ou de marche ;&nbsp;<br>Emmener avec vous un ou plusieurs t&eacute;l&eacute;phones portables / un v&ecirc;tement chaud : des boissons : des coupes faim ou barres &eacute;nerg&eacute;tiques.<br>Sur le parcours :<br>Respecter le sens de progression de la via ferrata ;<br>Garder toujours une longe sur le c&acirc;ble (ligne de vie), m&ecirc;me sur les parties faciles ;<br>Respecter les consignes mentionn&eacute;es sur les panneaux de s&eacute;curit&eacute; que vous rencontrez ;&nbsp;<br>Demander de l'aide en cas de vertige ou de fatigue physique ;<br>Apporter de l'aide &agrave; toute personne en difficult&eacute; ;&nbsp;<br>M&ecirc;me si les &eacute;motions sont fortes, &eacute;vitez de crier et de faire du bruit.</p>",
-        "Advice en": "",
-        "Accessibility fr": "<p>Depuis Florac, prendre la D 16 en direction du causse M&eacute;jean jusqu'au col de Pierre Plate. Se garer sur le grand parking &agrave; droite, &agrave; 150 m apr&egrave;s le col.</p>\r\n<p>Attention l'acc&egrave;s au site de pratique se fait &agrave; pied et ne passe plus par le Pradal.</p>\r\n<p>Depuis le parking du Pradal, descendre par la route (D 16) et &agrave; la premi&egrave;re &eacute;pingle prendre le sentier balis&eacute; GRP&reg; (jaune et rouge) qui passe sous le rebord du causse. Au d&eacute;part sur environ 400 m le sentier est escarp&eacute; et en escalier. Puis le sentier suit &agrave; flanc sous le bord du plateau jusqu&rsquo;&agrave; la via ferrata du Rochefort. Aller vers les rochers et le d&eacute;but des deux parcours de via ferrata (panneau), se fait dans un passage &eacute;troit dit \"le canyon\". Il faut compter 50 min d'acc&egrave;s &agrave; la Via-Ferrata.</p>\r\n<p>Le retour se fait par le m&ecirc;me itin&eacute;raire.</p>",
-        "Accessibility en": "",
-        "Period fr": "Avril - Octobre",
-        "Period en": "",
-        "Orientation": [
-          "E"
-        ],
-        "Wind": [],
-        "Label": null,
-        "Information desk": "Maison du tourisme et du Parc national, Florac",
-        "Web link": null,
-        "Portal": "DEP_48",
-        "Source": "Agence d'Attractivité Touristique Gorges Causses Cévennes",
-        "Manager": null,
-        "External ID": "",
-        "Published fr": "Yes",
-        "Published en": "No",
-        "Minimum elevation": "1024m",
-        "Maximum elevation": "1024m",
-        "Insertion date": "2026-03-17T16:09:20.626+01:00",
-        "Update date": "2026-03-17T16:09:54.546+01:00"
-      },
-      "geometry": {
-        "type": "MultiPoint",
-        "coordinates": [
-          [
-            3.566540032625199,
-            44.327796948572065
           ]
         ]
       }
